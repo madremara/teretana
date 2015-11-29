@@ -1,0 +1,2 @@
+# teretana
+prva verzija
